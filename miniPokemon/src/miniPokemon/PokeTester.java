@@ -6,6 +6,11 @@ public class PokeTester {
 		// TODO Auto-generated method stub
 		Pokemon charmander=new Pokemon();
 		charmander.swordDance();
+		charmander.swordDance();
+		charmander.swordDance();
+		charmander.swordDance();
+		charmander.swordDance();
+		charmander.swordDance();
 	}
 
 }
